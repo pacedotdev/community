@@ -1,2 +1,2 @@
 # Pace community
-Feedback, bugs, and feature requests for https://pace.dev
+Feedback, bugs, and feature requests for https://pace.dev/app
